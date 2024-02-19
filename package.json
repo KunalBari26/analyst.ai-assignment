@@ -1,0 +1,21 @@
+{
+  "name": "analystt.ai",
+  "version": "1.0.0",
+  "description": "This project is created by kunal bari as a assignment from analystt.ai",
+  "main": "index.js",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kunal bari",
+  "license": "ISC",
+  "dependencies": {
+    "snabbdom": "^3.6.2"
+  },
+  "devDependencies": {
+    "lerna": "^8.1.2"
+  }
+}
